@@ -1,0 +1,6 @@
+{
+  "name": "CricVerse AI",
+  "description": "CricVerse AI is a premium clean-designed real-time sports intelligence platform bringing live IPL match insights, immersive matchups, watch parties, community fantasy leagues, and tactical AI summaries together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
